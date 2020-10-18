@@ -1,0 +1,13 @@
+C:\Users\RobertasTutlys\source\repos\SolutionC\bin\Debug\netcoreapp3.1\SolutionC.exe
+C:\Users\RobertasTutlys\source\repos\SolutionC\bin\Debug\netcoreapp3.1\SolutionC.deps.json
+C:\Users\RobertasTutlys\source\repos\SolutionC\bin\Debug\netcoreapp3.1\SolutionC.runtimeconfig.json
+C:\Users\RobertasTutlys\source\repos\SolutionC\bin\Debug\netcoreapp3.1\SolutionC.runtimeconfig.dev.json
+C:\Users\RobertasTutlys\source\repos\SolutionC\bin\Debug\netcoreapp3.1\SolutionC.dll
+C:\Users\RobertasTutlys\source\repos\SolutionC\bin\Debug\netcoreapp3.1\SolutionC.pdb
+C:\Users\RobertasTutlys\source\repos\SolutionC\obj\Debug\netcoreapp3.1\SolutionC.csprojAssemblyReference.cache
+C:\Users\RobertasTutlys\source\repos\SolutionC\obj\Debug\netcoreapp3.1\SolutionC.csproj.CoreCompileInputs.cache
+C:\Users\RobertasTutlys\source\repos\SolutionC\obj\Debug\netcoreapp3.1\SolutionC.AssemblyInfoInputs.cache
+C:\Users\RobertasTutlys\source\repos\SolutionC\obj\Debug\netcoreapp3.1\SolutionC.AssemblyInfo.cs
+C:\Users\RobertasTutlys\source\repos\SolutionC\obj\Debug\netcoreapp3.1\SolutionC.dll
+C:\Users\RobertasTutlys\source\repos\SolutionC\obj\Debug\netcoreapp3.1\SolutionC.pdb
+C:\Users\RobertasTutlys\source\repos\SolutionC\obj\Debug\netcoreapp3.1\SolutionC.genruntimeconfig.cache
