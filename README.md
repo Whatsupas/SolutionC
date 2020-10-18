@@ -17,7 +17,7 @@ Note that a kitten will only come if it can stay the whole time it wants to borr
 The first line of input contains two integers **n** and **k** (1 <= **k** < **n** <= 100000), the number of potential 
 visiting kittens and the number of beds. Then follow **n** lines, each containing two integers **x(i)** and **y(i)** meaning that 
 kitten **i** wants to arrive at time **x(i)** and leave at time **y(i)**. This means that two kittens **i** and **j** where 
-y(i) = x(i) can use the same bed, as one kitten leaves at the same time as the other arrives. You ma assume
+y(i) = x(i) can use the same bed, as one kitten leaves at the same time as the other arrives. You may assume
 that 0 <= x(i) < y(i) <= 1000000000.
 ## Output
 Output the maximum number of kittens that can be housed given the requests
