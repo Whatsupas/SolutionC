@@ -9,7 +9,7 @@ booking system where kittens can request a bed for one or more nights.
 
 She has just looked into system, and realized that there are many requests for beds. In fact there are too many 
 to handle manually. She wants to offer beds to as many different kittens as possible, but she only has **k** beds. Can
-you help her figure outhow to accommodate as many kittens as possible?
+you help her figure out how to accommodate as many kittens as possible?
 
 Note that a kitten will only come if it can stay the whole time it wants to borrow a spare bed.
 
