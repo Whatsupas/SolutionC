@@ -1,7 +1,7 @@
 # SolutionC
-```
+``
 Exercise from Kattis testing system. Level - hard
-```
+``
 
 Problem:
 Kattis has **k** spare beds for visiting kittens. To make things a little bit easier to keep track of, she has made a 
