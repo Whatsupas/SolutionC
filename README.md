@@ -3,7 +3,7 @@
 Exercise from Kattis testing system. Level - hard
 ``
 
-Problem:
+## Issue
 Kattis has **k** spare beds for visiting kittens. To make things a little bit easier to keep track of, she has made a 
 booking system where kittens can request a bed for one or more nights.
 
