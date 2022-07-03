@@ -50,3 +50,4 @@ Input     Output
 3 8
 6 10
 ```
+![C3](https://user-images.githubusercontent.com/47819609/177035846-a366263d-c40b-4081-aa20-5ac12edfc28c.jpg)
