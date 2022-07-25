@@ -1,0 +1,15 @@
+C:\Users\29998robtut\source\repos\SolutionC\bin\Debug\net6.0\SolutionC.exe
+C:\Users\29998robtut\source\repos\SolutionC\bin\Debug\net6.0\SolutionC.deps.json
+C:\Users\29998robtut\source\repos\SolutionC\bin\Debug\net6.0\SolutionC.runtimeconfig.json
+C:\Users\29998robtut\source\repos\SolutionC\bin\Debug\net6.0\SolutionC.dll
+C:\Users\29998robtut\source\repos\SolutionC\bin\Debug\net6.0\SolutionC.pdb
+C:\Users\29998robtut\source\repos\SolutionC\obj\Debug\net6.0\SolutionC.csproj.AssemblyReference.cache
+C:\Users\29998robtut\source\repos\SolutionC\obj\Debug\net6.0\SolutionC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\29998robtut\source\repos\SolutionC\obj\Debug\net6.0\SolutionC.AssemblyInfoInputs.cache
+C:\Users\29998robtut\source\repos\SolutionC\obj\Debug\net6.0\SolutionC.AssemblyInfo.cs
+C:\Users\29998robtut\source\repos\SolutionC\obj\Debug\net6.0\SolutionC.csproj.CoreCompileInputs.cache
+C:\Users\29998robtut\source\repos\SolutionC\obj\Debug\net6.0\SolutionC.dll
+C:\Users\29998robtut\source\repos\SolutionC\obj\Debug\net6.0\refint\SolutionC.dll
+C:\Users\29998robtut\source\repos\SolutionC\obj\Debug\net6.0\SolutionC.pdb
+C:\Users\29998robtut\source\repos\SolutionC\obj\Debug\net6.0\SolutionC.genruntimeconfig.cache
+C:\Users\29998robtut\source\repos\SolutionC\obj\Debug\net6.0\ref\SolutionC.dll

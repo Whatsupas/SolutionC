@@ -17,7 +17,6 @@ C:\Users\29998robtut\Source\Repos\SolutionC\bin\Debug\netcoreapp3.1\SolutionC.ru
 C:\Users\29998robtut\Source\Repos\SolutionC\bin\Debug\netcoreapp3.1\SolutionC.runtimeconfig.dev.json
 C:\Users\29998robtut\Source\Repos\SolutionC\bin\Debug\netcoreapp3.1\SolutionC.dll
 C:\Users\29998robtut\Source\Repos\SolutionC\bin\Debug\netcoreapp3.1\SolutionC.pdb
-C:\Users\29998robtut\Source\Repos\SolutionC\obj\Debug\netcoreapp3.1\SolutionC.csprojAssemblyReference.cache
 C:\Users\29998robtut\Source\Repos\SolutionC\obj\Debug\netcoreapp3.1\SolutionC.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\29998robtut\Source\Repos\SolutionC\obj\Debug\netcoreapp3.1\SolutionC.AssemblyInfoInputs.cache
 C:\Users\29998robtut\Source\Repos\SolutionC\obj\Debug\netcoreapp3.1\SolutionC.AssemblyInfo.cs
@@ -25,3 +24,4 @@ C:\Users\29998robtut\Source\Repos\SolutionC\obj\Debug\netcoreapp3.1\SolutionC.cs
 C:\Users\29998robtut\Source\Repos\SolutionC\obj\Debug\netcoreapp3.1\SolutionC.dll
 C:\Users\29998robtut\Source\Repos\SolutionC\obj\Debug\netcoreapp3.1\SolutionC.pdb
 C:\Users\29998robtut\Source\Repos\SolutionC\obj\Debug\netcoreapp3.1\SolutionC.genruntimeconfig.cache
+C:\Users\29998robtut\source\repos\SolutionC\obj\Debug\netcoreapp3.1\SolutionC.csproj.AssemblyReference.cache

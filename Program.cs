@@ -62,7 +62,7 @@ namespace SolutionC
 
                 Console.WriteLine(max);
             }
-            catch (FormatException e)
+            catch (Exception e)
             {
                 Console.WriteLine();
                 Console.WriteLine(e.Message);
